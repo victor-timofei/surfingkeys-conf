@@ -7,7 +7,7 @@ util.addSettings({
   hintAlign:                "left",
   omnibarSuggestionTimeout: 500,
   richHintsForKeystroke:    1,
-  defaultSearchEngine:      "dd",
+  defaultSearchEngine:      "bs",
   theme:                    `
     body {
       font-family: "DejaVu Sans", DejaVu, Arial, sans-serif;

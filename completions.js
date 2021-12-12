@@ -644,6 +644,14 @@ completions.cp.callback = (response) => parseCrunchbase(response, (person) => {
 
 // ****** Search Engines ****** //
 
+// Brave Search
+completions.bs = {
+  alias:  "bs",
+  name:   "bravesearch",
+  search: "https://search.brave.com/search?q=",
+  compl:  "https://search.brave.com/api/suggest?q=",
+}
+
 // DuckDuckGo
 completions.dd = {
   alias:  "dd",
